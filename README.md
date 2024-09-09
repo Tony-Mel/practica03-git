@@ -7,7 +7,7 @@ Esta es una aplicación web que lista personajes del universo Dragon Ball utiliz
 
 **Nombres:**    Guillermo Antonio
 
-**Apellidos:**  Melgar mendez
+**Apellidos:**  Melgar Méndez.
 
 ## Requisitos
 
