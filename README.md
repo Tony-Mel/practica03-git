@@ -20,6 +20,7 @@ Conexión a internet para acceder ala API
 ## Uso
 
 1.Abre`index.php`en tu navegador para ver la lista de personajes en formato de
+
 2.Haz clic en un personaje para ver detalles adicionales en`index2.php`.
 
 ## Licencia
