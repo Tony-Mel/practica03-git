@@ -14,12 +14,14 @@ Conexión a internet para acceder ala API
 ## Instalación
 
 1.Clona este repositorio en la carpeta de tu servidor web.
-2.Asegúra te de que PHP esté configurado correctamente en tu servidor.
-3.No se requieren dependencias adicionales y a que la aplicación utiliza funciones 
+
+2.Asegúrate de que PHP esté configurado correctamente en tu servidor.
+
+3.No se requieren dependencias adicionales ya que la aplicación utiliza funciones nativas de PHP
 
 ## Uso
 
-1.Abre`index.php`en tu navegador para ver la lista de personajes en formato de
+1.Abre`index.php`en tu navegador para ver la lista de personajes en formato de tarjetas pequeñas.
 
 2.Haz clic en un personaje para ver detalles adicionales en`index2.php`.
 
