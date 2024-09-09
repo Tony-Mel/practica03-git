@@ -2,8 +2,11 @@
 Esta es una aplicación web que lista personajes del universo Dragon Ball utilizando PHP para conectarse a una API externa y mostrar los datos en un formato visual atractivo.
 
 **Asignatura:** Lenguaje de Programación
+
 **TSU:**        Servicios en la Nube
+
 **Nombres:**    Guillermo Antonio
+
 **Apellidos:**  Melgar mendez
 
 ## Requisitos
